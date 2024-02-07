@@ -9,9 +9,6 @@ import wikipedia
 # name of the virtual assistant
 name = 'eva'
 
-# your api key
-key = 'YOUR_API_KEY_HERE'
-
 # the flag help us to turn off the program
 flag = 1
 
